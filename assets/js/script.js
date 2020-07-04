@@ -1,8 +1,8 @@
 (function Game() {
 	// call elements
-	let game = $('#game')
-	let boxes = document.querySelectorAll('li');
-	let resetGame = $('#reset-game');
+    let game = $('#game')
+    let boxes = document.querySelectorAll('li');
+    let resetGame = $('#reset-game');
     let xTurn = $('.x-turn');
     let oTurn = $('.o-turn');
     let xWin = $('.player-x-win');

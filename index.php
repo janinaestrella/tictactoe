@@ -16,9 +16,9 @@
                 <h3><span class="x-turn">Player 1</span></h3>
                 <h3><span class="o-turn d-none">Player 2</span></h3>
 
-                <h3><span class="player-x-win d-none">Player One Wins</span></h3>
-                <h3><span class="player-o-win d-none">Player Two Wins</span></h3>
-                <h3><span class="draw d-none">It's a tie!</span></h3>
+                <h3><span class="player-x-win d-none"><strong>Player One Wins</strong></span></h3>
+                <h3><span class="player-o-win d-none"><strong>Player Two Wins</strong></span></h3>
+                <h3><span class="draw d-none"><strong>It's a tie!</strong></span></h3>
             </div>
 
             <ul id="game">
@@ -39,8 +39,6 @@
             <button id="reset-game">Reset Game</button>
             
         </div>
-
-	
 	
     <script
         src="https://code.jquery.com/jquery-3.5.1.min.js"

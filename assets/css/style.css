@@ -65,6 +65,10 @@ h1 {
     border: 0;
 }
 
+.player-x-win, .player-o-win, .draw {
+    color: #8B0000;
+}
+
 #reset-game {
     text-align: center;
         border: none;
